@@ -10,6 +10,7 @@ import pandas as pd
 import argparse
 import numpy as np
 
+
 class LogAnalyzer:
     """Analyze training logs from multiple runs"""
 
